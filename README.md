@@ -129,3 +129,7 @@ Original Customer Features
    Reduced Features
           ↓
       K-Means
+
+# live link
+
+https://smartcart-customer-segmentation-rktd5xtvez9cnm28dp5ggr.streamlit.app/
